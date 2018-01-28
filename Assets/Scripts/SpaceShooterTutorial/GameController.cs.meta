@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: b086cdeff9ad5466ea2bbaf3aab66458
+timeCreated: 1498567314
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - main_clip: {fileID: 8300000, guid: 0ef06807923741941b8b2fdf9e97d0ea, type: 3}
+  - meteors_clip: {fileID: 8300000, guid: 6ada577b5483ce84aa61caa17a4b3975, type: 3}
+  - torus_clip: {fileID: 8300000, guid: 843627a0cb2fe56478e4c43615b6d984, type: 3}
+  - final_boss_clip: {fileID: 8300000, guid: 8694f64540db207499e815d60b5e6fcb, type: 3}
+  - player: {instanceID: 0}
+  - electric_field: {instanceID: 0}
+  - checkpoint: {instanceID: 0}
+  - player_init_pools: {instanceID: 0}
+  - health_bar: {instanceID: 0}
+  - basic_explosion: {instanceID: 0}
+  - explosion_player: {instanceID: 0}
+  - explosion_rocket: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - lifeText: {instanceID: 0}
+  - restartText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - clickToStartText: {instanceID: 0}
+  - brainCloudStatusText: {instanceID: 0}
+  - enemiesKilledText: {instanceID: 0}
+  - asteroidsDestroyedText: {instanceID: 0}
+  - accuracyText: {instanceID: 0}
+  - shotsFiredText: {instanceID: 0}
+  - gamesPlayedText: {instanceID: 0}
+  - messages: {instanceID: 0}
+  - high_score_text: {instanceID: 0}
+  - highscore_font: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
